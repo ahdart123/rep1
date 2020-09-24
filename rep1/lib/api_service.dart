@@ -8,6 +8,8 @@ class ApiResult<T> {
   T data;
   bool requestSuccessed;
   //lalalala
+  //lalalala again
+
 }
 
 class HttpService {
