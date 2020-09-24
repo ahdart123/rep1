@@ -7,6 +7,7 @@ enum HttpMethod { GET, PUT, POST, DELETE, PATCH }
 class ApiResult<T> {
   T data;
   bool requestSuccessed;
+  //lalalala
 }
 
 class HttpService {
